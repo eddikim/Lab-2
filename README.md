@@ -41,4 +41,9 @@ much more powerful to me.</p>
 ![wordcloud-3](https://user-images.githubusercontent.com/122127793/213983464-a05bd797-23fc-4760-8e8b-d359e4320905.png)
 
 
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpzZF_uNBhnATbI1FhpyQ4llVOlMihdqZrAMjjeyS-VDns62QQ6W76oIcXkSTlEF0bTFDe5jAqlI4e/pub?gid=341426396&single=true&output=csv" target="_blank">Monterey Park Tweet Data</a>
+
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGSUwGPlLxFS6__U2Yqs5qsZI3uftjFuD8gxOKkITeF0qosaiaAGeWsxqvOqXcOL6amx5RxPMWHzXA/pub?gid=444410230&single=true&output=csv" target="_blank">Manhattan Tweet Data</a>
+
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRH6lWNcmtHHtIPpzZP26mkLC0e1_-b57SZxU7nRJLOdTFGJD5YTryl9wIjERbQ0wsl2o3Ofk7AwBIt/pub?gid=533456745&single=true&output=csv" target="_blank">San Francisco Tweet Data</a>
 
