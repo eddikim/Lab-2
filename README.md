@@ -30,3 +30,15 @@ compelling visualizations to stand in solidarity against Asian hate crimes. Some
 out to me were the sheer number of tweets that came out just from today since most of the tweets are 
 dated 1/22/23 in the datasets, so many of the words people used to react to the shooting felt that 
 much more powerful to me.</p>
+
+
+![wordcloud-1](https://user-images.githubusercontent.com/122127793/213983429-e17480fd-7f50-41ad-9aee-874e2af208b8.png)
+
+
+![wordcloud-2](https://user-images.githubusercontent.com/122127793/213983448-449e0c51-e87f-4148-97bb-dd91c7f10034.png)
+
+
+![wordcloud-3](https://user-images.githubusercontent.com/122127793/213983464-a05bd797-23fc-4760-8e8b-d359e4320905.png)
+
+
+
