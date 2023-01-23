@@ -6,7 +6,7 @@ dating from 1/17/23 and I wanted to look at geo-tagged tweets coming directly fr
 San Francisco with it being a neighboring city, and Manhattan to gather some tweets from the east
 coast. Being an Asian-American myself and resonating with the Stop Asian Hate movement, I wanted to 
 analyze how people on twitter were reacting to the news and compare this between these locations as 
-I felt they each have a strong presence of asian communities. I wanted to include Seattle too, 
+I felt they each have a strong presence of Asian communities. I wanted to include Seattle too, 
 however there were only three usable tweets based on my parameters. There are strong similarities 
 between all of the word clouds I created, for example words attached to strong emotions such as 
 "heartbroken", "angry", and "scared" were present on all three of the word clouds. Some other words 
@@ -16,7 +16,7 @@ on the first (Monterey Park) and the third (San Francisco) word clouds. However,
 more similarities than differences in the word choices surrounding tweets about Stop Asian Hate. 
 I would say the reason for patterns of similarity that I observed comes from the fact that people
 speaking against Asian Hate would likely feel very emotional in their writing and it is not particularly 
-a controversial view in wanting to protect members of our asian communities while speaking in condemnation
+a controversial view in wanting to protect members of our Asian communities while speaking in condemnation
 against the violence. As for the differences, the larger mentions of Monterey Park in the first and third
 word clouds compared to the second are likely due to location since the shooting took place in the 
 state of California. Some ways my research could be improved in the future would be choosing a topic
