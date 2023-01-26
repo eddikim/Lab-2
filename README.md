@@ -1,4 +1,4 @@
-Geo-Tagged Tweet Narrative
+# Geo-Tagged Tweet Narrative
 
 <p>For my topic, I selected the search terms "StopAsianHate" given the recent news of the mass shooting in 
 Monterey Park today on Lunar New Year. Some of the other parameters I used were looking at tweets
@@ -31,15 +31,26 @@ out to me were the sheer number of tweets that came out just from today since mo
 dated 1/22/23 in the datasets, so many of the words people used to react to the shooting felt that 
 much more powerful to me.</p>
 
+# Word Clouds
+
+## Monterey Park, CA
+
 ![wordcloud-1](https://user-images.githubusercontent.com/122127793/213983429-e17480fd-7f50-41ad-9aee-874e2af208b8.png)
+
+## Manhattan, NY
 
 ![wordcloud-2](https://user-images.githubusercontent.com/122127793/213983448-449e0c51-e87f-4148-97bb-dd91c7f10034.png)
 
+## San Francisco, CA
+
 ![wordcloud-3](https://user-images.githubusercontent.com/122127793/213983464-a05bd797-23fc-4760-8e8b-d359e4320905.png)
 
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpzZF_uNBhnATbI1FhpyQ4llVOlMihdqZrAMjjeyS-VDns62QQ6W76oIcXkSTlEF0bTFDe5jAqlI4e/pub?gid=341426396&single=true&output=csv" target="_blank">Monterey Park Tweet Data</a>
+# Datasets
+* [Monterey Park Tweet Data][]
+* [Manhattan Tweet Data][]
+* [San Francisco Tweet Data][]
 
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGSUwGPlLxFS6__U2Yqs5qsZI3uftjFuD8gxOKkITeF0qosaiaAGeWsxqvOqXcOL6amx5RxPMWHzXA/pub?gid=444410230&single=true&output=csv" target="_blank">Manhattan Tweet Data</a>
-
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRH6lWNcmtHHtIPpzZP26mkLC0e1_-b57SZxU7nRJLOdTFGJD5YTryl9wIjERbQ0wsl2o3Ofk7AwBIt/pub?gid=533456745&single=true&output=csv" target="_blank">San Francisco Tweet Data</a>
+[Monterey Park Tweet Data]: https://docs.google.com/spreadsheets/d/e/2PACX-1vQpzZF_uNBhnATbI1FhpyQ4llVOlMihdqZrAMjjeyS-VDns62QQ6W76oIcXkSTlEF0bTFDe5jAqlI4e/pub?gid=341426396&single=true&output=csv
+[Manhattan Tweet Data]: https://docs.google.com/spreadsheets/d/e/2PACX-1vRGSUwGPlLxFS6__U2Yqs5qsZI3uftjFuD8gxOKkITeF0qosaiaAGeWsxqvOqXcOL6amx5RxPMWHzXA/pub?gid=444410230&single=true&output=csv
+[San Francisco Tweet Data]: https://docs.google.com/spreadsheets/d/e/2PACX-1vRH6lWNcmtHHtIPpzZP26mkLC0e1_-b57SZxU7nRJLOdTFGJD5YTryl9wIjERbQ0wsl2o3Ofk7AwBIt/pub?gid=533456745&single=true&output=csv
 
