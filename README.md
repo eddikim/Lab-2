@@ -54,4 +54,3 @@ much more powerful to me.</p>
 [Monterey Park Tweet Data]: https://docs.google.com/spreadsheets/d/e/2PACX-1vQpzZF_uNBhnATbI1FhpyQ4llVOlMihdqZrAMjjeyS-VDns62QQ6W76oIcXkSTlEF0bTFDe5jAqlI4e/pub?gid=341426396&single=true&output=csv
 [Manhattan Tweet Data]: https://docs.google.com/spreadsheets/d/e/2PACX-1vRGSUwGPlLxFS6__U2Yqs5qsZI3uftjFuD8gxOKkITeF0qosaiaAGeWsxqvOqXcOL6amx5RxPMWHzXA/pub?gid=444410230&single=true&output=csv
 [San Francisco Tweet Data]: https://docs.google.com/spreadsheets/d/e/2PACX-1vRH6lWNcmtHHtIPpzZP26mkLC0e1_-b57SZxU7nRJLOdTFGJD5YTryl9wIjERbQ0wsl2o3Ofk7AwBIt/pub?gid=533456745&single=true&output=csv
-[Test]: https://github.com/eddikim/Lab-2/raw/main/assets/twsearch-result-1.csv
