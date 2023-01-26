@@ -35,15 +35,15 @@ much more powerful to me.</p>
 
 ## Monterey Park, CA
 
-![wordcloud-1](https://user-images.githubusercontent.com/122127793/213983429-e17480fd-7f50-41ad-9aee-874e2af208b8.png)
+![wordcloud-1](/img/wordcloud-1.png?raw=true)
 
 ## Manhattan, NY
 
-![wordcloud-2](https://user-images.githubusercontent.com/122127793/213983448-449e0c51-e87f-4148-97bb-dd91c7f10034.png)
+![wordcloud-2](/img/wordcloud-2.png?raw=true)
 
 ## San Francisco, CA
 
-![wordcloud-3](https://user-images.githubusercontent.com/122127793/213983464-a05bd797-23fc-4760-8e8b-d359e4320905.png)
+![wordcloud-3](/img/wordcloud-3.png?raw=true)
 
 # Datasets
 * [Monterey Park Tweet Data][]
